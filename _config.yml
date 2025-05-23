@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/quenched-exciton"
+      url: "https://github.com/quenched-exciton"
     #- label: "GitLab"
      # icon: "fab fa-fw fa-gitlab"
       # url:
@@ -158,7 +158,7 @@ footer:
       # url: 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/camportraitco"
+      url: "https://instagram.com/camportraitco"
 
 
 # Reading Files
