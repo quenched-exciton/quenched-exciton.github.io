@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Cristian's Website"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "A place all about me" # site tagline that appears below site title in masthead
 name                     : "Cristain Aviles-Martin"
 description              : "Chemist - Reseracher - Community Advocate"
 url                      : "quenched-exciton.githiub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
