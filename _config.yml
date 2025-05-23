@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Cristian Aviles-Martin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/CAM-Profile-2025.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Chemist, Researcher, and Community Advocate"
   location         : "CT, USA"
   email            :
