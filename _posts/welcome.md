@@ -1,0 +1,7 @@
+---
+title: "Welcome to My Blog"
+date: 2025-05-23
+categories: [blog]
+---
+
+Hello world! This is my first post on my professional site. Expect more things soon!
