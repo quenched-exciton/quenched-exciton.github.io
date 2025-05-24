@@ -50,7 +50,7 @@ Understanding how these players contribute—from materials to machines to manuf
 ### **Challenges and Excitement Ahead**
 
 
-It's been around 3 years not and the pace of learning has been steep, but so is the excitement. WLP in semiconductors is a dynamic, constantly evolving field. Formulations are proprietary, competitive, and highly optimized for specific process nodes and packaging designs. That means there’s always room for innovation—and for chemists to play a vital role in enabling the next generation of electronics.
+It's been around 3 years now and the pace of learning has been steep, but so is the excitement. WLP is a dynamic, constantly evolving field. Formulations are proprietary, competitive, and highly optimized for specific process nodes and packaging designs. That means there’s always room for innovation—and for chemists to play a vital role in enabling the next generation of electronics.
 
 
-As I continue in this role, I’m looking forward to digging deeper into the mechanistic understanding of additives, tackling challenges like void formation and stress control, and working more closely with process engineers and tool experts. It’s a new frontier for me, but one that feels like a perfect fit for someone who loves chemistry and is curious about how it powers the digital world.
+As I continue in this role, I’m looking forward to digging deeper into the mechanistic understanding of additives, tackling challenges like void formation and stress control. It’s a new frontier for me, but one that feels like a perfect fit for someone who loves chemistry and is curious about how it powers the digital world.
