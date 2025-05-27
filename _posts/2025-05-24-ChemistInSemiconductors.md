@@ -1,5 +1,5 @@
 ---
-title: "From Bench to the Fabs"
+title: "From Bench Chemistry to the Fab Chemistry"
 date: 2025-05-24
 categories: [blog]
 ---
